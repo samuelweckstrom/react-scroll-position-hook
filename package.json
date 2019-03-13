@@ -1,0 +1,24 @@
+{
+  "name": "react-scroll-position-hook",
+  "version": "0.0.0.1",
+  "description": "React hook for detecting scroll position",
+  "main": "index.js",
+  "author": "Samuel Weckström",
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-react": "^6.24.1",
+    "parcel-bundler": "^1.12.1"
+  },
+  "scripts": {
+    "start": "parcel ./example/index.html",
+    "build": "parcel build ./example/index.html"
+  },
+  "dependencies": {
+    "react": "^16.8.4",
+    "react-dom": "^16.8.4",
+    "styled-components": "^4.1.3"
+  }
+}

@@ -1,0 +1,9 @@
+/node_modules
+/dist
+/.cache
+.editorconfig
+.eslintrc.json
+.prettierrc
+.DS_Store
+yarn-debug.log*
+yarn-error.log*
